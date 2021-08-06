@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="N2_POO2BIM.Veiculos.Aviao">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAgAAAAAAAAAQAAgAAAAAEAAAgAAAQ=</HashCode>
+      <FileName>Classes\Veiculos\Aviao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="N2_POO2BIM.Veiculos.AviaoDeGuerra">
+    <Position X="7.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAEAAAAAAAAAgAAAAAAAAAQAAAAAAAAGAAAgAAAQ=</HashCode>
+      <FileName>Classes\Veiculos\AviaoDeGuerra.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="N2_POO2BIM.Veiculos.Caminhao">
+    <Position X="11.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAQAAAEAgEAAgIBAAABAAgAkAAAAAAAAQAAAAQ=</HashCode>
+      <FileName>Classes\Veiculos\Caminhao.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="N2_POO2BIM.Veiculos.Carro">
+    <Position X="16.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAQAAAAAAAAAAQAAAAAAAAAgAAAAAQAAAAAAAQ=</HashCode>
+      <FileName>Classes\Veiculos\Carro.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="N2_POO2BIM.Veiculos.Moto">
+    <Position X="2.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Classes\Veiculos\Moto.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="N2_POO2BIM.Veiculos.Navio">
+    <Position X="9.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAACAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Classes\Veiculos\Navio.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.109" />
+  </Class>
+  <Class Name="N2_POO2BIM.Veiculos.NavioDeGuerra">
+    <Position X="14" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAACAAAAAAAAAAAAAACAAAAAAAQ=</HashCode>
+      <FileName>Classes\Veiculos\NavioDeGuerra.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="N2_POO2BIM.Veiculos.Onibus">
+    <Position X="18.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAQAAAAAAAAAAAAAQABAAAAgAAAAAAAAQAAAAQ=</HashCode>
+      <FileName>Classes\Veiculos\Onibus.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="N2_POO2BIM.Veiculos.Trem">
+    <Position X="5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAgAAAIAAACAAAAAQ=</HashCode>
+      <FileName>Classes\Veiculos\Trem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="N2_POO2BIM.Classes.Veiculo">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAIAAAAAEAAAAAAAAAAAABAgAAAAIAAgAACCAAAQ=</HashCode>
+      <FileName>Classes\Veiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="N2_POO2BIM.Interfaces.ILimpador">
+    <Position X="13.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ILimpador.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="N2_POO2BIM.Interfaces.IPagaPedagio">
+    <Position X="15.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IPagaPedagio.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
